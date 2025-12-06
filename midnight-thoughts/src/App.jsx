@@ -165,7 +165,7 @@ export default function App() {
           </div>
 
           <div className="flex items-center gap-3 sm:gap-4 text-xs sm:text-sm opacity-70 hover:opacity-100 transition-opacity">
-            <div className="w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-gray-600/30 flex-shrink-0"></div>
+            {/* <div className="w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-gray-600/30 flex-shrink-0"></div> */}
             <span className="leading-tight">/ just a guy writing stuff when he should be sleeping</span>
           </div>
         </div>
